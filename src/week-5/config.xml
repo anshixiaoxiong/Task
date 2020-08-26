@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <className>ConcreteDecorator1</className>
+<!--    <className>ConcreteDecorator2</className>-->
+    <!--<className>XiangBiFarm</className>-->
+    <!--<className>ConcreteFactory1</className>-->
+    <!--<className>Student</className>-->
+</config>
